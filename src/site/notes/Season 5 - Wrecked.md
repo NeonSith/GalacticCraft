@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/season-5-wrecked/","created":"2024-10-16T22:32:08.777-05:00","updated":"2024-10-17T15:08:19.277-05:00"}
+{"dg-publish":true,"permalink":"/season-5-wrecked/","created":"2024-10-16T22:32:08.777-05:00","updated":"2024-10-17T15:26:41.618-05:00"}
 ---
 
 ![Screenshot 2024-02-16 103456.png](/img/user/Images/Screenshot%202024-02-16%20103456.png)
@@ -16,7 +16,7 @@ Season five was characterized by high levels of activity, featuring an array of 
 - [[Novaria\|Novaria]] by [[Automaticgamer\|Automaticgamer]]
 - [[Atlas\|Atlas]] by [[MustardSeed\|MustardSeed]]
 - [[Mountain Base\|Mountain Base]] by [[Fishbone\|Fishbone]] [[Tnert\|Tnert]] [[CobbW\|CobbW]]
-- Scenic Village by [[Nerfed66\|Nerfed66]]
+- [[Scenic Village\|Scenic Village]] by [[Nerfed66\|Nerfed66]]
 - Island City by [[XboxIsBad\|XboxIsBad]]
 - Cabin in the woods by [[Brandz\|Brandz]]
 - Cozy Cabin by [[Slep_Deprived\|Slep_Deprived]]
