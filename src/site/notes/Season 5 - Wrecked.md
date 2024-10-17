@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/season-5-wrecked/","created":"2024-10-16T22:32:08.777-05:00","updated":"2024-10-17T14:02:49.796-05:00"}
+{"dg-publish":true,"permalink":"/season-5-wrecked/","created":"2024-10-16T22:32:08.777-05:00","updated":"2024-10-17T14:13:35.645-05:00"}
 ---
 
-![image.png](/img/user/Images/image.png)
+![Screenshot 2024-02-16 103456.png](/img/user/Images/Screenshot%202024-02-16%20103456.png)
 Season five was a very active season with many different people playing it. Though it was ended short by a few griefers when the server protection was down. 
 
 # Builds:
