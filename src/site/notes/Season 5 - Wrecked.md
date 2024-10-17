@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/season-5-wrecked/","created":"2024-10-16T22:32:08.777-05:00","updated":"2024-10-17T14:13:35.645-05:00"}
+{"dg-publish":true,"permalink":"/season-5-wrecked/","created":"2024-10-16T22:32:08.777-05:00","updated":"2024-10-17T14:24:22.096-05:00"}
 ---
 
 ![Screenshot 2024-02-16 103456.png](/img/user/Images/Screenshot%202024-02-16%20103456.png)
-Season five was a very active season with many different people playing it. Though it was ended short by a few griefers when the server protection was down. 
+Season five was characterized by high levels of activity, featuring an array of players. However, the season was prematurely concluded due to disruptions caused by several griefers, coinciding with a temporary lapse in server protection measures. Note that some images associated with this season may be outdated or taken following the griefing incidents. Contributions of additional images are encouraged; interested parties may submit their pictures to NeonPork.
 
 # Builds:
 
@@ -11,7 +11,7 @@ Season five was a very active season with many different people playing it. Thou
 - [[S5 Spawn\|S5 Spawn]]
 ### Bases:
 - [[Falkenstadt\|Falkenstadt]] by [[NeonPork\|NeonPork]]
-- Industrial Base by [[Zerobald\|Zerobald]]
+- [[Industrial Base\|Industrial Base]] by [[Zerobald\|Zerobald]]
 - (Insert evils base name here) [[Evilcreature\|Evilcreature]]
 - Novaria by [[Automaticgamer\|Automaticgamer]]
 - Atlas by [[MustardSeed\|MustardSeed]]

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/falkenstadt/","created":"2024-10-17T14:02:50.381-05:00","updated":"2024-10-17T14:09:00.519-05:00"}
+{"dg-publish":true,"permalink":"/falkenstadt/","created":"2024-10-17T14:02:50.381-05:00","updated":"2024-10-17T14:33:26.559-05:00"}
 ---
 
-![2024-03-18_17.02.31.png](/img/user/Images/2024-03-18_17.02.31.png)Falkenstadt was a city in progress built by [[NeonPork\|NeonPork]] but was apart of the griefers targets. It was located north west from spawn and was the safest place to be in S5. 
+![2024-03-18_17.02.31.png](/img/user/Images/2024-03-18_17.02.31.png)Falkenstadt was a city under development, constructed by NeonPork, and became one of the targets of griefers during the season. Situated northwest of the spawn point, it was considered one of the safest locations in Season Five. Despite its progress, Falkenstadt's development was hindered by the disruptive and terrible actions of the griefers. Falkenstadt was the founding city of the Railroad.
 
 # Media:
 
