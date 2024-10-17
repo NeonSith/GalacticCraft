@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/season-2-castled/","created":"2024-10-16T22:36:39.741-05:00","updated":"2024-10-16T23:28:15.011-05:00"}
+{"dg-publish":true,"permalink":"/season-2-castled/","created":"2024-10-16T22:36:39.741-05:00","updated":"2024-10-17T10:12:31.084-05:00"}
 ---
 
 ![GCS2.png](/img/user/Images/GCS2.png)
@@ -8,6 +8,13 @@
 # Builds:
 
 ### Spawn:
-
-
+- Castle
+- Shop Island
+- Rainy Day Cafe
+- Eiffel Tower
+- Da boat shop
+- Spawn
+- Trident Monument
+- Tag Arena
+- Loaner Elytra
 ### Bases:
